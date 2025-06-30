@@ -1,18 +1,40 @@
 # 🧪 QA Testing Project – Python Restaurant Ordering System
 
 ## 📋 Project Summary
-This project simulates a basic restaurant ordering system using Python. It is extended into a QA-focused portfolio project by applying both manual and automated testing techniques.
+This is a QA-focused testing project based on a basic Python restaurant ordering system. It demonstrates both **manual testing** (test cases, bug reports) and **automated testing** using Python's `unittest` module.
 
 ## 🔧 Features
-- Simple menu and order handling using Python
 - Manual Test Cases (Excel)
-- Bug Tracking Log
+- Bug Reporting Sheet
+- Unit Test Script for Menu Validation
+- README with documentation
+
+## 🧪 Testing Covered
+- Functional Testing
+- Invalid Input Handling
 - Unit Testing using `unittest`
+- Bug Reporting with Severity Levels
+
+## 🛠 Tools Used
+- Python
+- Excel
+- unittest (Python module)
+- GitHub
 
 ## 📁 Project Structure
-📁 python-restaurant-qa  
-├── project1.py  
-├── test_menu.py  
-├── test-cases.xlsx  
-├── bug-report.xlsx  
-├── README.md
+📁 python-restaurant-qa/
+├── project1.py → Main script (Restaurant menu)
+├── test_menu.py → Unit test script
+├── test-cases.xlsx → Manual test case document
+├── bug-report.xlsx → Bug tracking document
+├── README.md → Project overview
+
+---
+
+## 💡 About Me
+This project is part of my QA learning journey and demonstrates my understanding of:
+- SDLC (Software Development Life Cycle)
+- STLC (Software Testing Life Cycle)
+- Test case creation and execution
+- Bug reporting and defect lifecycle
+- Writing unit tests using Python
